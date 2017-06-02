@@ -1,0 +1,4 @@
+[root]
+name = "string_split_on_char_change"
+version = "0.1.0"
+

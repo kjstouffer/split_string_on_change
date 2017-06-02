@@ -1,0 +1,6 @@
+[package]
+name = "string_split_on_char_change"
+version = "0.1.0"
+authors = ["Keith Stouffer <kjstouffer@gmail.com>"]
+
+[dependencies]
